@@ -8,16 +8,16 @@ assignees: ''
 
 ## Bug
 
-<!-- A clear and concise description of what the bug is. -->
+<-- A clear and concise description of what the bug is. -->
 
 ### To Reproduce
 
-<!-- FILL IN -->
+<-- FILL IN -->
 
 ### Expected behavior
 
-<!-- FILL IN -->
+<-- FILL IN -->
 
 ### Additional context
 
-<!-- Add any other context about the problem here. -->
+<-- Add any other context about the problem here. -->
